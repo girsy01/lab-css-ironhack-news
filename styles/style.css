@@ -263,7 +263,11 @@ header {
   }
 
   .burger{
-    display: bl;
+    display: block;
     padding: 10px;
+  }
+
+  .newspaper-name{
+    border: none;
   }
 }
